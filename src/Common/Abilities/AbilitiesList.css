@@ -1,0 +1,9 @@
+.abilities-list {
+    width: 100%;
+    text-transform: uppercase;
+}
+
+.header-cell {
+    text-align: center !important;
+    width: 33%;
+}

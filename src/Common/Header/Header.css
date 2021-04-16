@@ -1,0 +1,26 @@
+.name {
+    flex: 6 1 auto;
+}
+
+.xp {
+    flex: 2 4 auto;
+}
+
+.level {
+    flex: 1 6 auto;
+}
+
+.header {
+    padding: 10px 20px 20px 20px;
+}
+
+.header label {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+
+.portrait {
+    width: 300px;
+    height: 400px;
+}
