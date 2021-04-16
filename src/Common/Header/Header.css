@@ -1,13 +1,13 @@
 .name {
-    flex: 6 1 auto;
+    flex: 4 1 auto;
 }
 
 .xp {
-    flex: 2 4 auto;
+    flex: 1 4 auto;
 }
 
 .level {
-    flex: 1 6 auto;
+    flex: 1 4 auto;
 }
 
 .header {
@@ -23,4 +23,8 @@
 .portrait {
     width: 300px;
     height: 400px;
+}
+
+.portrait-form-group {
+    width: 100%;
 }

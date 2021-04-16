@@ -6,3 +6,17 @@
 .row > * {
     margin-right: 10px;
 }
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.fill {
+    height: 100%;
+    width: 100%;
+}
+
+.abilities-list, .header, .item-list {
+    flex: 1 1 33%;
+}
